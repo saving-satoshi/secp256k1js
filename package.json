@@ -1,0 +1,19 @@
+{
+  "name": "@savingsatoshi/secp256k1js",
+  "version": "1.0.0",
+  "description": "ECDSA module for Saving Satoshi code challenges",
+  "main": "secp256k1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saving-satoshi/secp256k1js.git"
+  },
+  "author": "Matthew Zipkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saving-satoshi/secp256k1js/issues"
+  },
+  "homepage": "https://github.com/saving-satoshi/secp256k1js#readme"
+}
