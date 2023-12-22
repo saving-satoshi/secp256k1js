@@ -188,7 +188,9 @@ class GE {
   }
 
   [inspect.custom]() {
-    return `<GE: ${this.x.hex()}, ${this.y.hex()}>`;
+    if (this.inf)
+      return '(inf)'
+    return `(${this.x.hex()}, ${this.y.hex()})`;
   }
 }
 

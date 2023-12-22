@@ -1,6 +1,6 @@
 {
   "name": "@savingsatoshi/secp256k1js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ECDSA module for Saving Satoshi code challenges",
   "main": "secp256k1.js",
   "scripts": {
